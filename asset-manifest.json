@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bookly/static/css/main.693fa3a9.css",
-    "main.js": "/bookly/static/js/main.e297b026.js",
+    "main.js": "/bookly/static/js/main.5a61a1e4.js",
     "static/js/787.1b719b86.chunk.js": "/bookly/static/js/787.1b719b86.chunk.js",
     "static/media/volume.svg": "/bookly/static/media/volume.46d241af37057c5633b6a8baf0c496d7.svg",
     "static/media/volume_up.svg": "/bookly/static/media/volume_up.48016ead1c9e0f18e5fcd859326b5c56.svg",
@@ -11,11 +11,11 @@
     "static/media/play.svg": "/bookly/static/media/play.ad0b908c315747a53df083a59cf7ddbc.svg",
     "static/media/back.svg": "/bookly/static/media/back.b41a7ff8b282db68c37bb8678ea7d183.svg",
     "main.693fa3a9.css.map": "/bookly/static/css/main.693fa3a9.css.map",
-    "main.e297b026.js.map": "/bookly/static/js/main.e297b026.js.map",
+    "main.5a61a1e4.js.map": "/bookly/static/js/main.5a61a1e4.js.map",
     "787.1b719b86.chunk.js.map": "/bookly/static/js/787.1b719b86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.693fa3a9.css",
-    "static/js/main.e297b026.js"
+    "static/js/main.5a61a1e4.js"
   ]
 }
